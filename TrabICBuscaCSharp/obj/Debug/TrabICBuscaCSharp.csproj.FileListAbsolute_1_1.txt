@@ -1,0 +1,10 @@
+C:\Users\vine0\source\repos\TrabICBuscaCSharp\TrabICBuscaCSharp\bin\Debug\TrabICBuscaCSharp.exe.config
+C:\Users\vine0\source\repos\TrabICBuscaCSharp\TrabICBuscaCSharp\bin\Debug\TrabICBuscaCSharp.exe
+C:\Users\vine0\source\repos\TrabICBuscaCSharp\TrabICBuscaCSharp\bin\Debug\TrabICBuscaCSharp.pdb
+C:\Users\vine0\source\repos\TrabICBuscaCSharp\TrabICBuscaCSharp\obj\Debug\TrabICBuscaCSharp.csprojAssemblyReference.cache
+C:\Users\vine0\source\repos\TrabICBuscaCSharp\TrabICBuscaCSharp\obj\Debug\TrabICBuscaCSharp.Properties.Resources.resources
+C:\Users\vine0\source\repos\TrabICBuscaCSharp\TrabICBuscaCSharp\obj\Debug\TrabICBuscaCSharp.csproj.GenerateResource.cache
+C:\Users\vine0\source\repos\TrabICBuscaCSharp\TrabICBuscaCSharp\obj\Debug\TrabICBuscaCSharp.csproj.CoreCompileInputs.cache
+C:\Users\vine0\source\repos\TrabICBuscaCSharp\TrabICBuscaCSharp\obj\Debug\TrabICBuscaCSharp.exe
+C:\Users\vine0\source\repos\TrabICBuscaCSharp\TrabICBuscaCSharp\obj\Debug\TrabICBuscaCSharp.pdb
+C:\Users\vine0\source\repos\TrabICBuscaCSharp\TrabICBuscaCSharp\obj\Debug\TrabICBuscaCSharp.Form1.resources
