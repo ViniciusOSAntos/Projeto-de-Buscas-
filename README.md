@@ -1,0 +1,2 @@
+# Projeto-de-Buscas-
+ O programa consiste em criar uma árvore de letras e mantê-las em ordem alfabética; O usuário digita uma letra na caixa e clica no botão ao lado para inserir um valor nesta; Para buscar um valor na árvore basta digitá-lo na caixa de busca e escolher o algoritmo de busca que deseja. O botão que diz "em ordem" serve apenas para printar a árvore no console, para que eu possa ver como ela está organizada.
